@@ -106,4 +106,44 @@
     transition: background-color 0.3s ease, color 0.3s ease;
     margin-left: 160px;
   }
+
+
+
+
+
+@media (max-width: 768px) {
+  .navbar {
+    background-color: #333; 
+    padding: 10px; 
+  }
+
+  .navbar-brand {
+    font-size: 24px;
+    color: #fff; 
+  }
+
+  .navbar-toggler {
+    background-color: #555; 
+    border: none; 
+    padding: 5px 10px; 
+    color: #fff; 
+  }
+
+  .collapse-navbar {
+    display: none; 
+    background-color: #333; 
+    padding: 10px; 
+    color: #fff; 
+  }
+
+  .navbar-nav {
+    flex-direction: column; 
+  }
+
+  .nav-item {
+    margin: 5px 0; 
+    text-align: center; 
+  }
+}
+
  

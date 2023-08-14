@@ -20,3 +20,27 @@
     font-size: x-large;
     color: rgb(255, 30, 0);
   }
+
+
+
+@media (max-width: 768px) {
+  .footer {
+      flex-direction: column;
+      text-align: center;
+  }
+  
+  .footers {
+      margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .footer {
+      flex-direction: column;
+      text-align: center;
+  }
+  
+  .footers {
+      margin-bottom: 20px;
+  }
+}
