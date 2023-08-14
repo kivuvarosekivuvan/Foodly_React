@@ -1,0 +1,38 @@
+.circle-background img{
+    border-radius: 60%;
+    border: solid rgb(255, 30, 0) 10px;
+    margin-left: 55%;
+    width: 40%;
+    height: 17vh;
+}
+.menu-item-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    gap: 10px;
+    margin-top: 100px;
+  }
+.menu-item {
+   background-color: #F2D2BD;
+   border-radius: 30px;
+   width: 20vw;
+   margin-bottom: 60px;
+   margin-left: 70px;
+}
+.menu-item-details{
+   margin-left: 10%;
+}
+.buy-now{
+    padding: 5px;
+    outline: none;
+    border: none;
+    background-color:rgb(255, 30, 0);
+    border-radius: 25px;
+    height: 40px;
+    width: 100px;
+    font-size: 16px;
+    font-weight: 100;
+    color: #fff;
+    margin-left: 50px;
+    margin-top: 10px;
+}

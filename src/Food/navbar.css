@@ -1,0 +1,109 @@
+.navbar {
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .navbar-brand {
+    font-size: 28px;
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+    margin-top: 3%;
+  }
+  
+  .navbar-toggler {
+    border: none;
+    background: none;
+    cursor: pointer;
+  }
+  
+  .navbar-nav {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-item {
+    margin: 0;
+  }
+  
+  .nav {
+    font-size: 18px;
+    color: #333;
+    text-decoration: none;
+    margin: 0 20px;
+    transition: color 0.3s ease;
+    margin-left: 300px;
+  }
+  
+  .nav2 {
+    font-size: 18px;
+    color: #333;
+    text-decoration: none;
+    margin: 0 20px;
+    transition: color 0.3s ease;
+    margin-left: 50px;
+
+  }
+  
+  .nav3 {
+    font-size: 18px;
+    color: #333;
+    text-decoration: none;
+    margin: 0 20px;
+    transition: color 0.3s ease;
+    margin-left: 80px;
+
+  }
+  
+  .nav4 {
+    font-size: 18px;
+    color: #333;
+    text-decoration: none;
+    margin: 0 20px;
+    transition: color 0.3s ease;
+    margin-left: 100px;
+
+  }
+  
+  .nav5 {
+    font-size: 18px;
+    color: #333;
+    text-decoration: none;
+    margin: 0 20px;
+    transition: color 0.3s ease;
+    margin-left: 100px;
+
+  }
+  
+  .nav6 {
+
+    border-radius: 20px;
+    border-color: rgb(255, 30, 0);
+    border: 3px solid rgb(255, 30, 0);
+    color: rgb(255, 30, 0);
+    font-size: 16px;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    margin-left: 100px;
+
+  }
+  
+  .custom-signup-btn {
+    border-radius: 20px;
+    border-color: rgb(255, 30, 0);
+    border: 3px solid rgb(255, 30, 0);
+    color: rgb(255, 30, 0);
+    font-size: 16px;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    margin-left: 160px;
+  }
+ 

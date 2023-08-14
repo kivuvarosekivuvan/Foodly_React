@@ -1,0 +1,129 @@
+.food{
+    font-size: 70px;
+    color:  rgb(228, 71, 71);
+    margin-left: 30px;
+    margin-top: 5%;
+}
+
+#image{
+    margin-left: 1000px;
+    margin-top: -17%;
+}
+
+.delicacy{
+    color: gray;
+    margin-top: -10%;
+    margin-left: 300px;
+}
+
+.buy{
+    background-color: rgb(228, 71, 71);
+    border: 20px;
+    border-radius: 20px;
+    margin-left: 90px;
+    padding:  8px 16px;
+    color: #fff;
+    font-size: 30px;
+}
+
+.order{
+    margin-left: 350px;
+    margin-top: -2%;
+    font-size: 30px;
+}
+
+.fast{
+    margin-left: 200px;
+    margin-top: 11%;
+
+}
+
+.fresh{
+    margin-left: 800px;
+    margin-top: -10%;
+}
+
+.free{
+    margin-left: 1200px;
+    margin-top: -10%;
+}
+
+.deliver{
+    background-color: rgb(234, 241, 241);
+    height: 200px;
+    margin-top: -2%;
+    margin-left: 160px;
+    margin-right: 160px;
+    border: 20px;
+    border-radius: 20px;
+}
+
+.f{
+    color: gray;
+    font-size: 20px;
+}
+
+/* #burger{
+    margin-left: 100px;
+    margin-top: 8%;
+
+}
+
+#pizza{
+    margin-left: 750px;
+    margin-top: -15%;
+}
+
+#fry{
+    margin-left: 1350px;
+    margin-top: -16%;
+} */
+
+.best{
+    font-size: 35px;
+    margin-left: 200px;
+    margin-top: 5%;
+
+}
+
+.category{
+    font-size: 20px;
+    color: grey;
+    margin-left: 900px;
+    margin-top: -5%;
+
+}
+
+#buy{
+    margin-left: 200px;
+    margin-top: 5%;
+}
+
+.bestD{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 100px;
+}
+.three{
+    background-color:rgb(233, 231, 231);
+}
+
+.our{
+    margin-top: 200px;
+    margin-left: 800px;
+}
+.header{
+    margin-left: 600px;
+    font-size: 22px;
+}
+.see-all{
+    padding: 10px 30px;
+    border: none;
+    background-color:rgb(255, 30, 0);
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 20px;
+}
